@@ -1,9 +1,6 @@
-# Safety of people in Coronavirus affected places.
+Problem Statement - 
+	Being in the current pandemic situation how to we know our chances of getting the threat? Altough in this current tensed situation we still need to move out to get some basic essentials procurement, so how do we do that with minimal possible risk of getting affected?
+	
+Solution - 
 
-## Problem Statement
-
-### How people will know they are safe or not, if they travelled in last few days ?
-
-### Solution :-
-
-We will use person's location data and Bluetooth/GPS to gauge he/she have been near a person who was infected by COVID-19 virus. It then determines that by looking through a database of people who have been infected as well as with one containing individuals travel history. It will also be able to tell you if you’re in an area with a high number of coronavirus cases.
+	By social contribution we procure each person's travel data, using which we can estimate the risk a person has of getting affected by the current pandemic which we are facing. Which doesn't stop there but further proceeds to guide us for the minimal time which we move out, we ensure that we are at minimal risk of getting affected.
