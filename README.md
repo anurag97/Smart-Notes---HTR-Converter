@@ -1,4 +1,5 @@
-Problem Statement - 
+﻿Problem Statement - 
+	
 	Being in the current pandemic situation how to we know our chances of getting the threat? Altough in this current tensed situation we still need to move out to get some basic essentials procurement, so how do we do that with minimal possible risk of getting affected?
 	
 Solution - 
