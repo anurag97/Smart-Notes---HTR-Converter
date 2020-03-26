@@ -3,4 +3,5 @@ Problem Statement -
 	
 Solution - 
 
-	By social contribution we procure each person's travel data, using which we can estimate the risk a person has of getting affected by the current pandemic which we are facing. Which doesn't stop there but further proceeds to guide us for the minimal time which we move out, we ensure that we are at minimal risk of getting affected.
+By social contribution we procure each person's travel data, using which we can estimate the risk a person has of  
+getting affected by the current pandemic which we are facing. Which doesn't stop there but further proceeds to guide us for the minimal time which we move out, we ensure that we are at minimal risk of getting affected.
