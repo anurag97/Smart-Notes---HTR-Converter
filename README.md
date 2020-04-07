@@ -1,6 +1,2 @@
-## Problem Statement - ##
-
-	
-## Solution - ##
-
+## Smart Notes ##
 
