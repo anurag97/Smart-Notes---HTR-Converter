@@ -122,15 +122,6 @@ def main():
     ls = LineSegmentation(inputDocPath)
     lineImages = ls.splitIntoLines()
     
-    '''
-    lineImages.append(cv2.imread(args[1],50))
-    lineImages.append(cv2.imread(args[2],50))
-    lineImages.append(cv2.imread(args[3],50))
-    lineImages.append(cv2.imread(args[4],50))
-    lineImages.append(cv2.imread(args[5],50))
-    lineImages.append(cv2.imread(args[6],50))
-    '''
-    
 
     i=1
     for line in lineImages:
@@ -154,14 +145,18 @@ def main():
             lineText+=' '
         lineText+="\n"
         LINES.append(lineText)
-    print(LINES)
-    file1 = open('output.txt', 'w')
+
+    if not os.path.exists('OUTPUT'):
+        os.makedirs('OUTPUT')
+
+    outputfilepath = 'OUTPUT/output'+inputDocPath[:5]+'.txt'
+    file1 = open(outputfilepath, 'w')
     file1.writelines(LINES) 
   
     # Closing file 
     file1.close() 
 
-    print("COnverted to output.txt")
+    print("Converted to txt file and stored in OUTPUT folder..")
     return
     
     '''
