@@ -43,5 +43,5 @@ Batch size is set to 50<br>
 
 ![example](./doc/nn_overview.png)
 
-<br>5.Recognizing words using pretrained Model and Combining output to output.txt<br>
+<br><b>Recognizing words using pretrained Model and Combining output to output.txt</b><br>
 In this step words are recognized using pretrained model and appended to output.txt line by line.
